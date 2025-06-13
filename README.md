@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marius
 - 👀 I’m interested in AI engineering
-- 🌱 I’m currently learning Python, Open AI
+- 🌱 I’m currently learning Python, GEN AI
 - 💞️ I’m looking to collaborate
 - 📫 pm me
 - ⚡ Fun fact: Capybara eat their own poop
